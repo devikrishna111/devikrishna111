@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm V S DeviKrishna</h1>
-<h3 align="center">B.Tech CSE | Open Source Contributor | Aspiring Software Engineer</h3>
+<img src="https://github.com/user-attachments/assets/957a79ee-e2cf-40f6-a2e8-1707bd1189b5">
